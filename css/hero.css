@@ -54,7 +54,8 @@ h2 {
 }
 
 a {
-  color: darkmagenta;  
+  color: darkmagenta; 
+  text-decoration: none; 
 }
 
 a:hover {
